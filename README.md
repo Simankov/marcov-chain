@@ -1,5 +1,12 @@
 # marcov-chain
 Task 1: genetic problem
 Results:
-![alt text](screenshots/s1.png "Description goes here")
 
+1) Matrixes : 
+![alt text](screenshots/results.png "Matrixes")
+
+2) Graphs:
+
+![alt text](screenshots/s1.png " probability of aa-aa or bb-bb")
+![alt text](screenshots/s2.png " B: aa-aa")
+![alt text](screenshots/s3.png " B: bb-bb")
