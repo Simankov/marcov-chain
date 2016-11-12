@@ -3,7 +3,7 @@ Task 1: genetic problem
 Results:
 
 1) Matrixes : 
-![alt text](screenshots/results.png "Matrixes")
+![alt text](screenshots/result.png "Matrixes")
 
 2) Graphs:
 
