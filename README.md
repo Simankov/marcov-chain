@@ -19,6 +19,6 @@
 
 
 Задача 2 : 
-![alt text](screenshots/file-page1.png "task2.1")
+![alt text](screenshots/file-page1.jpg "task2.1")
 Решение : 
 1) [ 0.02264569  0.04143566  0.08754891  0.12723427  0.40993508  0.18216062 0.12903977]
