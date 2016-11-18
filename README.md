@@ -2,7 +2,7 @@
 #Задача 1: генетическая проблема
 
 ##Результаты:
-
+[Код решения] (https://github.com/Simankov/marcov-chain/blob/master/task1/2016-11-12-144231.sagews "Code")
 1. Различные матрицы : 
 ![alt text](screenshots/result.png "Matrixes")
 Матрица B зависит от k. Среднее время до образования чистой породы T_average растет с ростом k
@@ -22,6 +22,7 @@
 ##Подзадача 1.
 
 ###Решение : 
+[Код решения] (https://github.com/Simankov/marcov-chain/blob/master/task2/LinearSolve.py "Code")
 1. Предельное распределение цепи : 
   ```
  ( 0.02264569  0.04143566  0.08754891  0.12723427  0.40993508  0.18216062 0.12903977 )
@@ -32,13 +33,13 @@
 (-0.00735431 -0.00456434 -0.00645109 -0.00376573  0.00093508  0.01216062 0.00803977) 
 ```
 2.  
-
+[Код решения] (https://github.com/Simankov/marcov-chain/blob/master/task2/2016-11-12-144231.sagews "Code")
 ![alt text](screenshots/result2.png "task2.1")
 
 ##Подзадача 2. 
 
 ###Решение :
-
+[Код решения] (https://github.com/Simankov/marcov-chain/blob/master/task2/LinearSolve.py "Code")
 1. Предельное распределение для матрицы P1 :  
 
   ```
