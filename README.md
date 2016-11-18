@@ -23,7 +23,7 @@
 ##Подзадача 1.
 
 ###Решение : 
-[Код решения] (https://github.com/Simankov/marcov-chain/blob/master/task2/LinearSolve.py "Code")
+[Код решения] (https://github.com/Simankov/marcov-chain/blob/master/task2/2.1+2.3.py "Code")
 
 1. Предельное распределение цепи : 
   ```
@@ -35,14 +35,14 @@
 (-0.00735431 -0.00456434 -0.00645109 -0.00376573  0.00093508  0.01216062 0.00803977) 
 ```
 2.  
-[Код решения] (https://github.com/Simankov/marcov-chain/blob/master/task2/2016-11-12-144231.sagews "Code")
+[Код решения] (https://github.com/Simankov/marcov-chain/blob/master/task2/2.2.py "Code")
 
 ![alt text](screenshots/result2.png "task2.1")
 
 ##Подзадача 2. 
 
 ###Решение :
-[Код решения] (https://github.com/Simankov/marcov-chain/blob/master/task2/LinearSolve.py "Code")
+[Код решения] (https://github.com/Simankov/marcov-chain/blob/master/task2/2.1+2.3.py "Code")
 
 1. Предельное распределение для матрицы P1 :  
 
